@@ -17,7 +17,7 @@ Frontend
 React.js – UI development.
 React Router – For navigation.
 Tailwind CSS / Material-UI – For styling.
-Recharts.js – For displaying fitness progress.
+
 Backend
 Node.js & Express.js – API server.
 MongoDB & Mongoose – Database for storing workout logs.
